@@ -8,7 +8,6 @@ After selecting a reciepe, the user can mark the recieps he likes, edit the amou
     2. npm start
 ```
 
-Demo: 
 
 ## Table Of Contents
 - [Forkify](#loop-machine)
