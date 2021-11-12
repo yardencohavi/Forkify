@@ -21,6 +21,6 @@ After selecting a reciepe, the user can mark the recieps he likes, edit the amou
 
 ## Tech stack
 1. HTML
-2. SCSS
+2. CSS
 3. JAVASCRIPT
 
