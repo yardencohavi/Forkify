@@ -1,4 +1,4 @@
-# Take a recipe
+# Forkify
 This app allows the user to search for recieps by typing a food name in the search field.
 After selecting a reciepe, the user can mark the recieps he likes, edit the amount of ingredients and add them to the shopping cart.
 
